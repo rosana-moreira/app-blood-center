@@ -7,6 +7,7 @@ Aplicação em desenvolvimento para a disciplina TCC do curso de pós graduaçã
 <h1 align="center">
   <img alt="logo" title="#logo" src="./assets/git.png" />
 </h1>
+
 # Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
