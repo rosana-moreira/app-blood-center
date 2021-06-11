@@ -31,12 +31,14 @@ $ yarn start
 ### 🎲 Rodando o Back End
 
 # Acesse a pasta do projeto no terminal/cmd
-cd AppBloodCenter/web
+cd AppBloodCenter/server
+
 # Instale as dependências
 $ yarn
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn dev
+
 # O servidor do front-end inciará na porta:3000 - acesse <http://localhost:3000>
 # O servidor do back-end inciará na porta:3333 - acesse <http://localhost:3333>
 
