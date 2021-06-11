@@ -1,19 +1,19 @@
 # AppBloodCenter
 # Descrição do Projeto
-<p align="center">About
+<p align="center">
 Aplicação em desenvolvimento para a disciplina TCC do curso de pós graduação de tecnologias para desenvolvimento Web - IFSULDEMINAS.
 </p>
 
 <h1 align="center">
   <img alt="logo" title="#logo" src="./assets/git.png" />
 </h1>
-### Pré-requisitos
+# Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Front End
+# 🎲 Rodando o Front End
 
 ```bash
 # Clone este repositório
