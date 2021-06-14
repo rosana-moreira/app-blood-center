@@ -28,9 +28,9 @@ $ yarn
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn start
-
-### 🎲 Rodando o Back End
-
+```
+# 🎲 Rodando o Back End
+```bash
 # Acesse a pasta do projeto no terminal/cmd
 cd AppBloodCenter/server
 
